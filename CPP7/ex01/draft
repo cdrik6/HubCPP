@@ -1,0 +1,15 @@
+    // typedef struct s_idc
+	// {
+	// 	int i;
+	// 	double d;
+	// 	char c;	
+	// } t_idc;
+	// t_idc toto;
+	// t_idc titi;
+	// t_idc arr_idc[] = {toto, titi};
+	// std::cout << "Print elements of an array of idc instances:" << std::endl;
+	// iter(arr_idc, 2, NULL);
+	// std::cout << "Size of elements of an array of idc instances:" << std::endl;
+	// sizeof(toto);
+	// iter(arr_idc, 2, size_of);
+	// std::cout << std::endl;	
